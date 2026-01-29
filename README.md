@@ -6,11 +6,17 @@ This repository contains my submission for **Lab 2: Creating a Structured Webpag
 The webpage was created using **HTML** and demonstrates:
 
 -Proper HTML5 semantic structure
+
 -Use of ordered and unordered lists
+
 -An image with descriptive alt text
+
 -A relative image path
+
 -Use of <figure> and <figcaption>
+
 -Clean, readable HTML
+
 -Valid HTML5 document outline checked using the W3C Validator
 
 ## Live Site
