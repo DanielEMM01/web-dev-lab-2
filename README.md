@@ -22,7 +22,7 @@ GitHub Pages:
 https://danielemm01.github.io/web-dev-lab-2/
 
 ## Validation
-The HTML file was validated using the W3C Markup Validation Service with no errors.
+The HTML file was validated using the W3C Markup Validation Service with no errors and HTML5 document outline.
 
 ## Author
 Daniel Manzano
