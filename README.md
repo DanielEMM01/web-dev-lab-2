@@ -13,8 +13,6 @@ The webpage was created using **HTML** and demonstrates:
 
 -A relative image path
 
--Use of <figure> and <figcaption>
-
 -Clean, readable HTML
 
 -Valid HTML5 document outline checked using the W3C Validator
